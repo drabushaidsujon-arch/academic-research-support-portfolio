@@ -1,0 +1,1 @@
+$(cat /home/workdir/artifacts/academic-portfolio/profile-and-banner-plan.md)
